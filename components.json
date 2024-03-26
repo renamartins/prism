@@ -357,7 +357,8 @@
 		"crystal": {
 			"title": "Crystal",
 			"require": "ruby",
-			"owner": "MakeNowJust"
+			"owner": "MakeNowJust",
+			"alias": ["cr"]
 		},
 		"css-extras": {
 			"title": "CSS Extras",
