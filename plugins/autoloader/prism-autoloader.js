@@ -195,6 +195,7 @@
 		"shortcode": "bbcode",
 		"rbnf": "bnf",
 		"oscript": "bsl",
+		"cr": "crystal",
 		"cs": "csharp",
 		"dotnet": "csharp",
 		"cfc": "cfscript",
