@@ -54,4 +54,6 @@
 		}
 	});
 
+	Prism.languages.cr = Prism.languages.crystal;
+
 }(Prism));
